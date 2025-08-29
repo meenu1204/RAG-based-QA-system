@@ -40,4 +40,4 @@ source rag_env/bin/activate
  python rag.py
  ```
 5. Sample Output
-![Screenshot of RAG QA result](rag_output)
+![Screenshot of RAG QA result](rag_output.png)
